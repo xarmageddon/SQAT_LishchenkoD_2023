@@ -1,17 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34cdef1b-df2f-4eee-a0cd-e3116a3a2bf2" name="Changes" comment="" />
+    <list default="true" id="34cdef1b-df2f-4eee-a0cd-e3116a3a2bf2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ua/opu/sqat/cargo_taxi/InterfaceObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/opu/sqat/cargo_taxi/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/opu/sqat/cargo_taxi/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/opu/sqat/cargo_taxi/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ua/opu/sqat/cargo_taxi/Cargo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ua/opu/sqat/cargo_taxi/Cargo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ua/opu/sqat/cargo_taxi/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ua/opu/sqat/cargo_taxi/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ua/opu/sqat/cargo_taxi/OrderRecipient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ua/opu/sqat/cargo_taxi/OrderRecipient.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2WzsbgHHXWrQtviEGbsEWLT2oF9" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
