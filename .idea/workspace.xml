@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34cdef1b-df2f-4eee-a0cd-e3116a3a2bf2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ua/opu/sqat/cargo_taxi/InterfaceObj.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/opu/sqat/cargo_taxi/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/opu/sqat/cargo_taxi/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/opu/sqat/cargo_taxi/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/opu/sqat/cargo_taxi/Cargo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ua/opu/sqat/cargo_taxi/Cargo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/opu/sqat/cargo_taxi/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ua/opu/sqat/cargo_taxi/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/opu/sqat/cargo_taxi/OrderRecipient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ua/opu/sqat/cargo_taxi/OrderRecipient.java" afterDir="false" />
-    </list>
+    <list default="true" id="34cdef1b-df2f-4eee-a0cd-e3116a3a2bf2" name="Changes" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +35,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ua.opu.sqat.cargo_taxi" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -53,6 +49,35 @@
       <option name="presentableId" value="Default" />
       <updated>1697746820495</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1697747625345</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697747625345</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1697747676846</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697747676846</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit">
+      <created>1697747705972</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697747705972</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial commit">
+      <created>1697747798391</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697747798391</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -65,5 +90,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
